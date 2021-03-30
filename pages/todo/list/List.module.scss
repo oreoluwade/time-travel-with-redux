@@ -1,0 +1,23 @@
+.root {
+  padding: 30px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  padding: 0;
+}
+
+.item {
+  font-weight: 500;
+  font-size: 15px;
+  margin-bottom: 8px;
+  height: 23px;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 25px;
+  color: green;
+}
